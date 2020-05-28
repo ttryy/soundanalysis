@@ -1,0 +1,13 @@
+/mp3/
+/renv/
+/test/
+/checkpoints/
+/graphs/
+.Rproj.user/
+.Rhistory
+.Rprofile
+prepAudio.RData
+renv.lock
+renv.RData
+sound.Rproj
+
